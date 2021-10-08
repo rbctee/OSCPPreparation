@@ -16,98 +16,100 @@ Based on [TJnull](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88
 
 #### HackTheBox
 
-- [ ] Lame
-- [ ] Brainfuck
-- [ ] Shocker
-- [ ] Bashed
-- [ ] Nibbles
-- [ ] Beep
-- [ ] Cronos
-- [ ] Nineveh
-- [ ] Sense
-- [ ] Solidstate
-- [ ] Node
-- [ ] Valentine
-- [ ] Poison
-- [ ] Sunday
-- [ ] Tartarsauce
-- [ ] Irked
-- [ ] Friendzone
-- [ ] Swagshop
-- [ ] Networked
-- [ ] Jarvis
-- [ ] Mirai
-- [ ] Popcorn
-- [ ] Haircut
-- [ ] Blocky
-- [ ] Frolic
-- [ ] Postman
-- [ ] Mango
-- [ ] Traverxec
-- [ ] OpenAdmin
-- [ ] Magic
-- [ ] Admirer
-- [ ] Blunder
-- [ ] Tabby 
-- [ ] Doctor
-- [ ] SneakyMailer
-- [ ] Passage
-- [ ] Luanne
-- [ ] Time
-- [ ] Ready
-- [ ] Delivery
-- [ ] Ophiuchi
-- [ ] Legacy
-- [ ] Blue
-- [ ] Devel
-- [ ] Optimum
-- [ ] Bastard
-- [ ] Granny
-- [ ] Arctic
-- [ ] Grandpa
-- [ ] Silo
-- [ ] Bounty
-- [ ] Jerry
-- [ ] Conceal
-- [ ] Chatterbox
-- [ ] Forest
-- [ ] BankRobber
-- [ ] Secnotes
-- [ ] Bastion
-- [ ] Buff
-- [ ] Servmon
-- [ ] Active
-- [ ] Remote
-- [ ] Fuse
-- [ ] Omni
-- [ ] Worker
-- [ ] Jeeves
-- [ ] Bart
-- [ ] Tally
-- [ ] Kotarak
-- [ ] Falafel
-- [ ] Devops
-- [ ] Hawk
-- [ ] Netmon
-- [ ] Lightweight
-- [ ] La Casa De Papel
-- [ ] Jail
-- [ ] Safe
-- [ ] Bitlab
-- [ ] Sizzle
-- [ ] Sniper
-- [ ] Control
-- [ ] October
-- [ ] Mango
-- [ ] Nest
-- [ ] Book
-- [ ] Sauna
-- [ ] Cascade
-- [ ] Querier
-- [ ] Quick
-- [ ] BlackField
-- [ ] APT
-- [ ] Atom
+| Box Name         | Official page | Writeup | Status               |
+| ---------------- | ------------- | ------- | -------------------- |
+| Lame             |               |         | :white_check_mark:   |
+| Brainfuck        |               |         | :white_check_mark:   |
+| Shocker          |               |         | :white_check_mark:   |
+| Bashed           |               |         | :white_check_mark:   |
+| Nibbles          |               |         | :white_check_mark:   |
+| Beep             |               |         | :white_check_mark:   |
+| Cronos           |               |         | :white_check_mark:   |
+| Nineveh          |               |         | :white_check_mark:   |
+| Sense            |               |         | :white_check_mark:   |
+| Solidstate       |               |         | :white_check_mark:   |
+| Node             |               |         | :white_large_square: |
+| Valentine        |               |         | :white_check_mark:   |
+| Poison           |               |         | :white_check_mark:   |
+| Sunday           |               |         | :white_large_square: |
+| Tartarsauce      |               |         | :white_check_mark:   |
+| Irked            |               |         | :white_check_mark:   |
+| Friendzone       |               |         | :white_large_square: |
+| Swagshop         |               |         | :white_large_square: |
+| Networked        |               |         | :white_large_square: |
+| Jarvis           |               |         | :white_large_square: |
+| Mirai            |               |         | :white_large_square: |
+| Popcorn          |               |         | :white_large_square: |
+| Haircut          |               |         | :white_large_square: |
+| Blocky           |               |         | :white_large_square: |
+| Frolic           |               |         | :white_large_square: |
+| Postman          |               |         | :white_large_square: |
+| Mango            |               |         | :white_large_square: |
+| Traverxec        |               |         | :white_large_square: |
+| OpenAdmin        |               |         | :white_check_mark:   |
+| Magic            |               |         | :white_large_square: |
+| Admirer          |               |         | :white_check_mark:   |
+| Blunder          |               |         | :white_check_mark:   |
+| Tabby            |               |         | :white_check_mark:   |
+| Doctor           |               |         | :white_check_mark:   |
+| SneakyMailer     |               |         | :white_check_mark:   |
+| Passage          |               |         | :white_check_mark:   |
+| Luanne           |               |         | :white_large_square: |
+| Time             |               |         | :white_check_mark:   |
+| Ready            |               |         | :white_check_mark:   |
+| Delivery         |               |         | :white_check_mark:   |
+| Ophiuchi         |               |         | :white_check_mark:   |
+| Legacy           |               |         | :white_check_mark:   |
+| Blue             |               |         | :white_check_mark:   |
+| Devel            |               |         | :white_check_mark:   |
+| Optimum          |               |         | :white_check_mark:   |
+| Bastard          |               |         | :white_large_square: |
+| Granny           |               |         | :white_large_square: |
+| Arctic           |               |         | :white_large_square: |
+| Grandpa          |               |         | :white_large_square: |
+| Silo             |               |         | :white_large_square: |
+| Bounty           |               |         | :white_large_square: |
+| Jerry            |               |         | :white_large_square: |
+| Conceal          |               |         | :white_check_mark:   |
+| Chatterbox       |               |         | :white_large_square: |
+| Forest           |               |         | :white_check_mark:   |
+| BankRobber       |               |         | :white_large_square: |
+| Secnotes         |               |         | :white_large_square: |
+| Bastion          |               |         | :white_large_square: |
+| Buff             |               |         | :white_check_mark:   |
+| Servmon          |               |         | :white_large_square: |
+| Active           |               |         | :white_check_mark:   |
+| Remote           |               |         | :white_check_mark:   |
+| Fuse             |               |         | :white_large_square: |
+| Omni             |               |         | :white_check_mark:   |
+| Worker           |               |         | :white_large_square: |
+| Jeeves           |               |         | :white_large_square: |
+| Bart             |               |         | :white_large_square: |
+| Tally            |               |         | :white_large_square: |
+| Kotarak          |               |         | :white_large_square: |
+| Falafel          |               |         | :white_large_square: |
+| DevOops          |               |         | :white_check_mark:   |
+| Hawk             |               |         | :white_large_square: |
+| Netmon           |               |         | :white_large_square: |
+| Lightweight      |               |         | :white_large_square: |
+| La Casa De Papel |               |         | :white_check_mark:   |
+| Jail             |               |         | :white_large_square: |
+| Safe             |               |         | :white_large_square: |
+| Bitlab           |               |         | :white_large_square: |
+| Sizzle           |               |         | :white_large_square: |
+| Sniper           |               |         | :white_large_square: |
+| Control          |               |         | :white_large_square: |
+| October          |               |         | :white_large_square: |
+| Mango            |               |         | :white_large_square: |
+| Nest             |               |         | :white_large_square: |
+| Book             |               |         | :white_large_square: |
+| Sauna            |               |         | :white_large_square: |
+| Cascade          |               |         | :white_large_square: |
+| Querier          |               |         | :white_check_mark:   |
+| Quick            |               |         | :white_large_square: |
+| BlackField       |               |         | :white_check_mark:   |
+| APT              |               |         | :white_check_mark:   |
+| Atom             |               |         | :white_large_square: |
 
 #### Proving Grounds
 

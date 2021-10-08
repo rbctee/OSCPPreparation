@@ -1,0 +1,11 @@
+*.exe
+*.out
+*.lib
+*.pdb
+*.obj
+*.py[dac]
+out/
+bin/
+temp/
+tmp/
+__pycache__/
