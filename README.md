@@ -16,100 +16,102 @@ Based on [TJnull](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88
 
 #### HackTheBox
 
-| Box Name         | Official page                                            | Writeup | Status               |
-| ---------------- | -------------------------------------------------------- | ------- | -------------------- |
-| Lame             | [Link](https://app.hackthebox.eu/machines/Lame)          |         | :white_check_mark:   |
-| Brainfuck        | [Link](https://app.hackthebox.eu/machines/Brainfuck)     |         | :white_check_mark:   |
-| Shocker          | [Link](https://app.hackthebox.eu/machines/Shocker)       |         | :white_check_mark:   |
-| Bashed           | [Link](https://app.hackthebox.eu/machines/Bashed)        |         | :white_check_mark:   |
-| Nibbles          | [Link](https://app.hackthebox.eu/machines/Nibbles)       |         | :white_check_mark:   |
-| Beep             | [Link](https://app.hackthebox.eu/machines/Beep)          |         | :white_check_mark:   |
-| Cronos           | [Link](https://app.hackthebox.eu/machines/Cronos)        |         | :white_check_mark:   |
-| Nineveh          | [Link](https://app.hackthebox.eu/machines/Nineveh)       |         | :white_check_mark:   |
-| Sense            | [Link](https://app.hackthebox.eu/machines/Sense)         |         | :white_check_mark:   |
-| Solidstate       | [Link](https://app.hackthebox.eu/machines/Solidstate)    |         | :white_check_mark:   |
-| Node             | [Link](https://app.hackthebox.eu/machines/Node)          |         | :white_large_square: |
-| Valentine        | [Link](https://app.hackthebox.eu/machines/Valentine)     |         | :white_check_mark:   |
-| Poison           | [Link](https://app.hackthebox.eu/machines/Poison)        |         | :white_check_mark:   |
-| Sunday           | [Link](https://app.hackthebox.eu/machines/Sunday)        |         | :white_large_square: |
-| Tartarsauce      | [Link](https://app.hackthebox.eu/machines/Tartarsauce)   |         | :white_check_mark:   |
-| Irked            | [Link](https://app.hackthebox.eu/machines/Irked)         |         | :white_check_mark:   |
-| Friendzone       | [Link](https://app.hackthebox.eu/machines/Friendzone)    |         | :white_large_square: |
-| Swagshop         | [Link](https://app.hackthebox.eu/machines/Swagshop)      |         | :white_large_square: |
-| Networked        | [Link](https://app.hackthebox.eu/machines/Networked)     |         | :white_large_square: |
-| Jarvis           | [Link](https://app.hackthebox.eu/machines/Jarvis)        |         | :white_large_square: |
-| Mirai            | [Link](https://app.hackthebox.eu/machines/Mirai)         |         | :white_large_square: |
-| Popcorn          | [Link](https://app.hackthebox.eu/machines/Popcorn)       |         | :white_large_square: |
-| Haircut          | [Link](https://app.hackthebox.eu/machines/Haircut)       |         | :white_large_square: |
-| Blocky           | [Link](https://app.hackthebox.eu/machines/Blocky)        |         | :white_large_square: |
-| Frolic           | [Link](https://app.hackthebox.eu/machines/Frolic)        |         | :white_large_square: |
-| Postman          | [Link](https://app.hackthebox.eu/machines/Postman)       |         | :white_large_square: |
-| Mango            | [Link](https://app.hackthebox.eu/machines/Mango)         |         | :white_large_square: |
-| Traverxec        | [Link](https://app.hackthebox.eu/machines/Traverxec)     |         | :white_large_square: |
-| OpenAdmin        | [Link](https://app.hackthebox.eu/machines/OpenAdmin)     |         | :white_check_mark:   |
-| Magic            | [Link](https://app.hackthebox.eu/machines/Magic)         |         | :white_large_square: |
-| Admirer          | [Link](https://app.hackthebox.eu/machines/Admirer)       |         | :white_check_mark:   |
-| Blunder          | [Link](https://app.hackthebox.eu/machines/Blunder)       |         | :white_check_mark:   |
-| Tabby            | [Link](https://app.hackthebox.eu/machines/Tabby)         |         | :white_check_mark:   |
-| Doctor           | [Link](https://app.hackthebox.eu/machines/Doctor)        |         | :white_check_mark:   |
-| SneakyMailer     | [Link](https://app.hackthebox.eu/machines/SneakyMailer)  |         | :white_check_mark:   |
-| Passage          | [Link](https://app.hackthebox.eu/machines/Passage)       |         | :white_check_mark:   |
-| Luanne           | [Link](https://app.hackthebox.eu/machines/Luanne)        |         | :white_large_square: |
-| Time             | [Link](https://app.hackthebox.eu/machines/Time)          |         | :white_check_mark:   |
-| Ready            | [Link](https://app.hackthebox.eu/machines/Ready)         |         | :white_check_mark:   |
-| Delivery         | [Link](https://app.hackthebox.eu/machines/Delivery)      |         | :white_check_mark:   |
-| Ophiuchi         | [Link](https://app.hackthebox.eu/machines/Ophiuchi)      |         | :white_check_mark:   |
-| Legacy           | [Link](https://app.hackthebox.eu/machines/Legacy)        |         | :white_check_mark:   |
-| Blue             | [Link](https://app.hackthebox.eu/machines/Blue)          |         | :white_check_mark:   |
-| Devel            | [Link](https://app.hackthebox.eu/machines/Devel)         |         | :white_check_mark:   |
-| Optimum          | [Link](https://app.hackthebox.eu/machines/Optimum)       |         | :white_check_mark:   |
-| Bastard          | [Link](https://app.hackthebox.eu/machines/Bastard)       |         | :white_large_square: |
-| Granny           | [Link](https://app.hackthebox.eu/machines/Granny)        |         | :white_large_square: |
-| Arctic           | [Link](https://app.hackthebox.eu/machines/Arctic)        |         | :white_large_square: |
-| Grandpa          | [Link](https://app.hackthebox.eu/machines/Grandpa)       |         | :white_large_square: |
-| Silo             | [Link](https://app.hackthebox.eu/machines/Silo)          |         | :white_large_square: |
-| Bounty           | [Link](https://app.hackthebox.eu/machines/Bounty)        |         | :white_large_square: |
-| Jerry            | [Link](https://app.hackthebox.eu/machines/Jerry)         |         | :white_large_square: |
-| Conceal          | [Link](https://app.hackthebox.eu/machines/Conceal)       |         | :white_check_mark:   |
-| Chatterbox       | [Link](https://app.hackthebox.eu/machines/Chatterbox)    |         | :white_large_square: |
-| Forest           | [Link](https://app.hackthebox.eu/machines/Forest)        |         | :white_check_mark:   |
-| BankRobber       | [Link](https://app.hackthebox.eu/machines/BankRobber)    |         | :white_large_square: |
-| Secnotes         | [Link](https://app.hackthebox.eu/machines/Secnotes)      |         | :white_large_square: |
-| Bastion          | [Link](https://app.hackthebox.eu/machines/Bastion)       |         | :white_large_square: |
-| Buff             | [Link](https://app.hackthebox.eu/machines/Buff)          |         | :white_check_mark:   |
-| Servmon          | [Link](https://app.hackthebox.eu/machines/Servmon)       |         | :white_large_square: |
-| Active           | [Link](https://app.hackthebox.eu/machines/Active)        |         | :white_check_mark:   |
-| Remote           | [Link](https://app.hackthebox.eu/machines/Remote)        |         | :white_check_mark:   |
-| Fuse             | [Link](https://app.hackthebox.eu/machines/Fuse)          |         | :white_large_square: |
-| Omni             | [Link](https://app.hackthebox.eu/machines/Omni)          |         | :white_check_mark:   |
-| Worker           | [Link](https://app.hackthebox.eu/machines/Worker)        |         | :white_large_square: |
-| Jeeves           | [Link](https://app.hackthebox.eu/machines/Jeeves)        |         | :white_large_square: |
-| Bart             | [Link](https://app.hackthebox.eu/machines/Bart)          |         | :white_large_square: |
-| Tally            | [Link](https://app.hackthebox.eu/machines/Tally)         |         | :white_large_square: |
-| Kotarak          | [Link](https://app.hackthebox.eu/machines/Kotarak)       |         | :white_large_square: |
-| Falafel          | [Link](https://app.hackthebox.eu/machines/Falafel)       |         | :white_large_square: |
-| DevOops          | [Link](https://app.hackthebox.eu/machines/DevOops)       |         | :white_check_mark:   |
-| Hawk             | [Link](https://app.hackthebox.eu/machines/Hawk)          |         | :white_large_square: |
-| Netmon           | [Link](https://app.hackthebox.eu/machines/Netmon)        |         | :white_large_square: |
-| Lightweight      | [Link](https://app.hackthebox.eu/machines/Lightweight)   |         | :white_large_square: |
-| La Casa De Papel | [Link](https://app.hackthebox.eu/machines/LaCasaDePapel) |         | :white_check_mark:   |
-| Jail             | [Link](https://app.hackthebox.eu/machines/Jail)          |         | :white_large_square: |
-| Safe             | [Link](https://app.hackthebox.eu/machines/Safe)          |         | :white_large_square: |
-| Bitlab           | [Link](https://app.hackthebox.eu/machines/Bitlab)        |         | :white_large_square: |
-| Sizzle           | [Link](https://app.hackthebox.eu/machines/Sizzle)        |         | :white_large_square: |
-| Sniper           | [Link](https://app.hackthebox.eu/machines/Sniper)        |         | :white_large_square: |
-| Control          | [Link](https://app.hackthebox.eu/machines/Control)       |         | :white_large_square: |
-| October          | [Link](https://app.hackthebox.eu/machines/October)       |         | :white_large_square: |
-| Mango            | [Link](https://app.hackthebox.eu/machines/Mango)         |         | :white_large_square: |
-| Nest             | [Link](https://app.hackthebox.eu/machines/Nest)          |         | :white_large_square: |
-| Book             | [Link](https://app.hackthebox.eu/machines/Book)          |         | :white_large_square: |
-| Sauna            | [Link](https://app.hackthebox.eu/machines/Sauna)         |         | :white_large_square: |
-| Cascade          | [Link](https://app.hackthebox.eu/machines/Cascade)       |         | :white_large_square: |
-| Querier          | [Link](https://app.hackthebox.eu/machines/Querier)       |         | :white_check_mark:   |
-| Quick            | [Link](https://app.hackthebox.eu/machines/Quick)         |         | :white_large_square: |
-| BlackField       | [Link](https://app.hackthebox.eu/machines/BlackField)    |         | :white_check_mark:   |
-| APT              | [Link](https://app.hackthebox.eu/machines/APT)           |         | :white_check_mark:   |
-| Atom             | [Link](https://app.hackthebox.eu/machines/Atom)          |         | :white_large_square: |
+Link to my HTB profile: [rbct](https://app.hackthebox.eu/profile/57923).
+
+| Box Name         | Official page                                            | Writeup                                                | Status               |
+| ---------------- | -------------------------------------------------------- | ------------------------------------------------------ | -------------------- |
+| Lame             | [Link](https://app.hackthebox.eu/machines/Lame)          | [Link](https://ctf.rbct.it/HTB/machines/lame/)         | :white_check_mark:   |
+| Brainfuck        | [Link](https://app.hackthebox.eu/machines/Brainfuck)     |                                                        | :white_check_mark:   |
+| Shocker          | [Link](https://app.hackthebox.eu/machines/Shocker)       |                                                        | :white_check_mark:   |
+| Bashed           | [Link](https://app.hackthebox.eu/machines/Bashed)        |                                                        | :white_check_mark:   |
+| Nibbles          | [Link](https://app.hackthebox.eu/machines/Nibbles)       |                                                        | :white_check_mark:   |
+| Beep             | [Link](https://app.hackthebox.eu/machines/Beep)          |                                                        | :white_check_mark:   |
+| Cronos           | [Link](https://app.hackthebox.eu/machines/Cronos)        |                                                        | :white_check_mark:   |
+| Nineveh          | [Link](https://app.hackthebox.eu/machines/Nineveh)       |                                                        | :white_check_mark:   |
+| Sense            | [Link](https://app.hackthebox.eu/machines/Sense)         |                                                        | :white_check_mark:   |
+| Solidstate       | [Link](https://app.hackthebox.eu/machines/Solidstate)    |                                                        | :white_check_mark:   |
+| Node             | [Link](https://app.hackthebox.eu/machines/Node)          |                                                        | :white_large_square: |
+| Valentine        | [Link](https://app.hackthebox.eu/machines/Valentine)     |                                                        | :white_check_mark:   |
+| Poison           | [Link](https://app.hackthebox.eu/machines/Poison)        |                                                        | :white_check_mark:   |
+| Sunday           | [Link](https://app.hackthebox.eu/machines/Sunday)        |                                                        | :white_large_square: |
+| Tartarsauce      | [Link](https://app.hackthebox.eu/machines/Tartarsauce)   |                                                        | :white_check_mark:   |
+| Irked            | [Link](https://app.hackthebox.eu/machines/Irked)         |                                                        | :white_check_mark:   |
+| Friendzone       | [Link](https://app.hackthebox.eu/machines/Friendzone)    |                                                        | :white_large_square: |
+| Swagshop         | [Link](https://app.hackthebox.eu/machines/Swagshop)      |                                                        | :white_large_square: |
+| Networked        | [Link](https://app.hackthebox.eu/machines/Networked)     |                                                        | :white_large_square: |
+| Jarvis           | [Link](https://app.hackthebox.eu/machines/Jarvis)        |                                                        | :white_large_square: |
+| Mirai            | [Link](https://app.hackthebox.eu/machines/Mirai)         |                                                        | :white_large_square: |
+| Popcorn          | [Link](https://app.hackthebox.eu/machines/Popcorn)       |                                                        | :white_large_square: |
+| Haircut          | [Link](https://app.hackthebox.eu/machines/Haircut)       |                                                        | :white_large_square: |
+| Blocky           | [Link](https://app.hackthebox.eu/machines/Blocky)        |                                                        | :white_large_square: |
+| Frolic           | [Link](https://app.hackthebox.eu/machines/Frolic)        |                                                        | :white_large_square: |
+| Postman          | [Link](https://app.hackthebox.eu/machines/Postman)       |                                                        | :white_large_square: |
+| Mango            | [Link](https://app.hackthebox.eu/machines/Mango)         |                                                        | :white_large_square: |
+| Traverxec        | [Link](https://app.hackthebox.eu/machines/Traverxec)     |                                                        | :white_large_square: |
+| OpenAdmin        | [Link](https://app.hackthebox.eu/machines/OpenAdmin)     | [Link](https://ctf.rbct.it/HTB/machines/openadmin)     | :white_check_mark:   |
+| Magic            | [Link](https://app.hackthebox.eu/machines/Magic)         |                                                        | :white_large_square: |
+| Admirer          | [Link](https://app.hackthebox.eu/machines/Admirer)       |                                                        | :white_check_mark:   |
+| Blunder          | [Link](https://app.hackthebox.eu/machines/Blunder)       |                                                        | :white_check_mark:   |
+| Tabby            | [Link](https://app.hackthebox.eu/machines/Tabby)         |                                                        | :white_check_mark:   |
+| Doctor           | [Link](https://app.hackthebox.eu/machines/Doctor)        |                                                        | :white_check_mark:   |
+| SneakyMailer     | [Link](https://app.hackthebox.eu/machines/SneakyMailer)  | [Link](https://ctf.rbct.it/HTB/machines/sneakymailer/) | :white_check_mark:   |
+| Passage          | [Link](https://app.hackthebox.eu/machines/Passage)       | [Link](https://ctf.rbct.it/HTB/machines/passage/)      | :white_check_mark:   |
+| Luanne           | [Link](https://app.hackthebox.eu/machines/Luanne)        |                                                        | :white_large_square: |
+| Time             | [Link](https://app.hackthebox.eu/machines/Time)          | [Link](https://ctf.rbct.it/HTB/machines/time/)         | :white_check_mark:   |
+| Ready            | [Link](https://app.hackthebox.eu/machines/Ready)         | [Link](https://ctf.rbct.it/HTB/machines/ready/)        | :white_check_mark:   |
+| Delivery         | [Link](https://app.hackthebox.eu/machines/Delivery)      |                                                        | :white_check_mark:   |
+| Ophiuchi         | [Link](https://app.hackthebox.eu/machines/Ophiuchi)      | [Link](https://ctf.rbct.it/HTB/machines/ophiuchi/)     | :white_check_mark:   |
+| Legacy           | [Link](https://app.hackthebox.eu/machines/Legacy)        |                                                        | :white_check_mark:   |
+| Blue             | [Link](https://app.hackthebox.eu/machines/Blue)          |                                                        | :white_check_mark:   |
+| Devel            | [Link](https://app.hackthebox.eu/machines/Devel)         |                                                        | :white_check_mark:   |
+| Optimum          | [Link](https://app.hackthebox.eu/machines/Optimum)       |                                                        | :white_check_mark:   |
+| Bastard          | [Link](https://app.hackthebox.eu/machines/Bastard)       |                                                        | :white_large_square: |
+| Granny           | [Link](https://app.hackthebox.eu/machines/Granny)        |                                                        | :white_large_square: |
+| Arctic           | [Link](https://app.hackthebox.eu/machines/Arctic)        |                                                        | :white_large_square: |
+| Grandpa          | [Link](https://app.hackthebox.eu/machines/Grandpa)       |                                                        | :white_large_square: |
+| Silo             | [Link](https://app.hackthebox.eu/machines/Silo)          |                                                        | :white_large_square: |
+| Bounty           | [Link](https://app.hackthebox.eu/machines/Bounty)        |                                                        | :white_large_square: |
+| Jerry            | [Link](https://app.hackthebox.eu/machines/Jerry)         | [Link](https://ctf.rbct.it/HTB/machines/jerry/)        | :white_large_square: |
+| Conceal          | [Link](https://app.hackthebox.eu/machines/Conceal)       |                                                        | :white_check_mark:   |
+| Chatterbox       | [Link](https://app.hackthebox.eu/machines/Chatterbox)    |                                                        | :white_large_square: |
+| Forest           | [Link](https://app.hackthebox.eu/machines/Forest)        |                                                        | :white_check_mark:   |
+| BankRobber       | [Link](https://app.hackthebox.eu/machines/BankRobber)    |                                                        | :white_large_square: |
+| Secnotes         | [Link](https://app.hackthebox.eu/machines/Secnotes)      |                                                        | :white_large_square: |
+| Bastion          | [Link](https://app.hackthebox.eu/machines/Bastion)       |                                                        | :white_large_square: |
+| Buff             | [Link](https://app.hackthebox.eu/machines/Buff)          | [Link](https://ctf.rbct.it/HTB/machines/buff/)         | :white_check_mark:   |
+| Servmon          | [Link](https://app.hackthebox.eu/machines/Servmon)       |                                                        | :white_large_square: |
+| Active           | [Link](https://app.hackthebox.eu/machines/Active)        |                                                        | :white_check_mark:   |
+| Remote           | [Link](https://app.hackthebox.eu/machines/Remote)        | [Link](https://ctf.rbct.it/HTB/machines/remote/)       | :white_check_mark:   |
+| Fuse             | [Link](https://app.hackthebox.eu/machines/Fuse)          |                                                        | :white_large_square: |
+| Omni             | [Link](https://app.hackthebox.eu/machines/Omni)          |                                                        | :white_check_mark:   |
+| Worker           | [Link](https://app.hackthebox.eu/machines/Worker)        |                                                        | :white_large_square: |
+| Jeeves           | [Link](https://app.hackthebox.eu/machines/Jeeves)        |                                                        | :white_large_square: |
+| Bart             | [Link](https://app.hackthebox.eu/machines/Bart)          |                                                        | :white_large_square: |
+| Tally            | [Link](https://app.hackthebox.eu/machines/Tally)         |                                                        | :white_large_square: |
+| Kotarak          | [Link](https://app.hackthebox.eu/machines/Kotarak)       |                                                        | :white_large_square: |
+| Falafel          | [Link](https://app.hackthebox.eu/machines/Falafel)       |                                                        | :white_large_square: |
+| DevOops          | [Link](https://app.hackthebox.eu/machines/DevOops)       |                                                        | :white_check_mark:   |
+| Hawk             | [Link](https://app.hackthebox.eu/machines/Hawk)          |                                                        | :white_large_square: |
+| Netmon           | [Link](https://app.hackthebox.eu/machines/Netmon)        |                                                        | :white_large_square: |
+| Lightweight      | [Link](https://app.hackthebox.eu/machines/Lightweight)   |                                                        | :white_large_square: |
+| La Casa De Papel | [Link](https://app.hackthebox.eu/machines/LaCasaDePapel) |                                                        | :white_check_mark:   |
+| Jail             | [Link](https://app.hackthebox.eu/machines/Jail)          |                                                        | :white_large_square: |
+| Safe             | [Link](https://app.hackthebox.eu/machines/Safe)          |                                                        | :white_large_square: |
+| Bitlab           | [Link](https://app.hackthebox.eu/machines/Bitlab)        |                                                        | :white_large_square: |
+| Sizzle           | [Link](https://app.hackthebox.eu/machines/Sizzle)        |                                                        | :white_large_square: |
+| Sniper           | [Link](https://app.hackthebox.eu/machines/Sniper)        |                                                        | :white_large_square: |
+| Control          | [Link](https://app.hackthebox.eu/machines/Control)       |                                                        | :white_large_square: |
+| October          | [Link](https://app.hackthebox.eu/machines/October)       |                                                        | :white_large_square: |
+| Mango            | [Link](https://app.hackthebox.eu/machines/Mango)         |                                                        | :white_large_square: |
+| Nest             | [Link](https://app.hackthebox.eu/machines/Nest)          |                                                        | :white_large_square: |
+| Book             | [Link](https://app.hackthebox.eu/machines/Book)          |                                                        | :white_large_square: |
+| Sauna            | [Link](https://app.hackthebox.eu/machines/Sauna)         |                                                        | :white_large_square: |
+| Cascade          | [Link](https://app.hackthebox.eu/machines/Cascade)       |                                                        | :white_large_square: |
+| Querier          | [Link](https://app.hackthebox.eu/machines/Querier)       | [Link](https://ctf.rbct.it/HTB/machines/querier/)      | :white_check_mark:   |
+| Quick            | [Link](https://app.hackthebox.eu/machines/Quick)         |                                                        | :white_large_square: |
+| BlackField       | [Link](https://app.hackthebox.eu/machines/BlackField)    |                                                        | :white_check_mark:   |
+| APT              | [Link](https://app.hackthebox.eu/machines/APT)           | [Link](https://ctf.rbct.it/HTB/machines/apt/)          | :white_check_mark:   |
+| Atom             | [Link](https://app.hackthebox.eu/machines/Atom)          |                                                        | :white_large_square: |
 
 #### Proving Grounds
 
