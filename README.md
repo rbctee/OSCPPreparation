@@ -113,99 +113,103 @@ Based on [TJnull](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88
 
 #### Proving Grounds
 
-- [ ] Nickel
-- [ ] Slort
-- [ ] Authby
-- [ ] Jacko
-- [ ] MeatHead
-- [ ] UT99
-- [ ] MedJed
-- [ ] Algeron
-- [ ] Billyboss
-- [ ] Butch
-- [ ] Kevin
-- [ ] Metallus
-- [ ] ClamAV
-- [ ] Wombo
-- [ ] Payday
-- [ ] Fail
-- [ ] Nibbles
-- [ ] Banzai
-- [ ] Hunit
-- [ ] Dibble
-- [ ] Zino
-- [ ] Hetemit
-- [ ] Peppo
-- [ ] Postfish
-- [ ] Malbec
-- [ ] Sybaris
-- [ ] Bratarina
-- [ ] Internal
-- [ ] Clyde
-- [ ] Vector
-- [ ] Shifty
-- [ ] XposedAPI
-- [ ] HelpDesk
-- [ ] Twiggy
+| Box Name  | Official page | Writeup | Status               |
+| --------- | ------------- | ------- | -------------------- |
+| Nickel    |               |         | :white_large_square: |
+| Slort     |               |         | :white_large_square: |
+| Authby    |               |         | :white_large_square: |
+| Jacko     |               |         | :white_large_square: |
+| MeatHead  |               |         | :white_large_square: |
+| UT99      |               |         | :white_large_square: |
+| MedJed    |               |         | :white_large_square: |
+| Algeron   |               |         | :white_large_square: |
+| Billyboss |               |         | :white_large_square: |
+| Butch     |               |         | :white_large_square: |
+| Kevin     |               |         | :white_large_square: |
+| Metallus  |               |         | :white_large_square: |
+| ClamAV    |               |         | :white_large_square: |
+| Wombo     |               |         | :white_large_square: |
+| Payday    |               |         | :white_large_square: |
+| Fail      |               |         | :white_large_square: |
+| Nibbles   |               |         | :white_large_square: |
+| Banzai    |               |         | :white_large_square: |
+| Hunit     |               |         | :white_large_square: |
+| Dibble    |               |         | :white_large_square: |
+| Zino      |               |         | :white_large_square: |
+| Hetemit   |               |         | :white_large_square: |
+| Peppo     |               |         | :white_large_square: |
+| Postfish  |               |         | :white_large_square: |
+| Malbec    |               |         | :white_large_square: |
+| Sybaris   |               |         | :white_large_square: |
+| Bratarina |               |         | :white_large_square: |
+| Internal  |               |         | :white_large_square: |
+| Clyde     |               |         | :white_large_square: |
+| Vector    |               |         | :white_large_square: |
+| Shifty    |               |         | :white_large_square: |
+| XposedAPI |               |         | :white_large_square: |
+| HelpDesk  |               |         | :white_large_square: |
+| Twiggy    |               |         | :white_large_square: |
 
 #### VulnHub
 
-- [ ] [DC 9](https://www.vulnhub.com/entry/dc-9,412/)
-- [ ] [Digitalworld.local (Bravery)](https://www.vulnhub.com/entry/digitalworldlocal-bravery,281/)
-- [ ] [Digitalworld.local (Development)](https://www.vulnhub.com/entry/digitalworldlocal-development,280/)
-- [ ] [Digitalworld.local (Mercy v2)](https://www.vulnhub.com/entry/digitalworldlocal-mercy-v2,263/)
-- [ ] [Digitalworld.local (JOY)](https://www.vulnhub.com/entry/digitalworldlocal-joy,298/)
-- [ ] [Prime 1](https://www.vulnhub.com/entry/prime-1,358/)
-- [ ] [Symfonos 1](https://www.vulnhub.com/entry/symfonos-1,322/)
-- [ ] [Symfonos 2](https://www.vulnhub.com/entry/symfonos-2,331/)
-- [ ] [Symfonos 3](https://www.vulnhub.com/entry/symfonos-3,332/)
-- [ ] [Symfonos 4](https://www.vulnhub.com/entry/symfonos-4,347/)
-- [ ] [Symfonos 5.2](https://www.vulnhub.com/entry/symfonos-52,415/)
-- [ ] [Misdirection 1](https://www.vulnhub.com/entry/misdirection-1,371/)
-- [ ] [Sar 1](https://www.vulnhub.com/entry/sar-1,425/)
-- [ ] [Djinn 1](https://www.vulnhub.com/entry/djinn-1,397/)
-- [ ] [EVM 1](https://www.vulnhub.com/entry/evm-1,391/)
-- [ ] [DerpNStink 1](https://www.vulnhub.com/entry/derpnstink-1,221/)
-- [ ] [RickdiculouslyEasy 1](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/)
-- [ ] [Tommy Boy 1](https://www.vulnhub.com/entry/tommy-boy-1,157/)
-- [ ] [Breach 1](https://www.vulnhub.com/entry/breach-1,152/)
-- [ ] [Breach 2.1](https://www.vulnhub.com/entry/breach-21,159/)
-- [ ] [Breach 3.0.1](https://www.vulnhub.com/entry/breach-301,177/)
-- [ ] [NullByte](https://www.vulnhub.com/entry/nullbyte-1,126/)
-- [ ] [Bob 1.0.1](https://www.vulnhub.com/entry/bob-101,226/)
-- [ ] [Toppo 1](https://www.vulnhub.com/entry/toppo-1,245/)
-- [ ] [W34kn3ss 1](https://www.vulnhub.com/entry/w34kn3ss-1,270/)
-- [ ] [GoldenEye 1](https://www.vulnhub.com/entry/goldeneye-1,240/)
-- [ ] [Infosec Prep OSCP Box](https://www.vulnhub.com/entry/infosec-prep-oscp,508/)
-- [ ] [LemonSqueezy](https://www.vulnhub.com/entry/lemonsqueezy-1,473/)
-- [ ] [Brainpan 1](https://www.vulnhub.com/entry/brainpan-1,51/)
-- [ ] [Pinkys Palace v1](https://www.vulnhub.com/entry/pinkys-palace-v1,225/)
-- [ ] [Lord of the root 1.0.1](https://www.vulnhub.com/entry/lord-of-the-root-101,129/)
-- [ ] [Tiki-1](https://www.vulnhub.com/entry/tiki-1,525/)
-- [ ] [Healthcare 1](https://www.vulnhub.com/entry/healthcare-1,522/)
-- [ ] [Photographer 1](https://www.vulnhub.com/entry/photographer-1,519/)
-- [ ] [Glasglow 1.1](https://www.vulnhub.com/entry/glasgow-smile-11,491/)
-- [ ] [DevGuru 1](https://www.vulnhub.com/entry/devguru-1,620/)
-- [ ] [Alpha 1](https://www.vulnhub.com/entry/alfa-1,655/)
-- [ ] [IMF](https://www.vulnhub.com/entry/imf-1,162/)
-- [ ] [Tommy Boy](https://www.vulnhub.com/entry/tommy-boy-1,157/)
-- [ ] [Billy Madison](https://www.vulnhub.com/entry/billy-madison-11,161/)
-- [ ] [Tr0ll1](https://www.vulnhub.com/entry/tr0ll-1,100/)
-- [ ] [Tr0ll2](https://www.vulnhub.com/entry/tr0ll-2,107/)
-- [ ] [Wallaby's Nightmare](https://www.vulnhub.com/entry/wallabys-nightmare-v102,176/)
-- [ ] [Moria](https://www.vulnhub.com/entry/moria-1,187/)
-- [ ] [BSides Vancouver 2018](https://www.vulnhub.com/entry/bsides-vancouver-2018-workshop,231/)
-- [ ] [DEFCON Toronto Galahad](https://www.vulnhub.com/entry/defcon-toronto-galahad,194/)
-- [ ] [Spydersec](https://www.vulnhub.com/entry/spydersec-challenge,128/)
-- [ ] [Pinkys Palace v3](https://www.vulnhub.com/entry/pinkys-palace-v3,237/)
-- [ ] [Pinkys Palace v4](https://www.vulnhub.com/entry/pinkys-palace-v4,265/)
-- [ ] [Vulnerable Docker 1](https://www.vulnhub.com/entry/vulnerable-docker-1,208/)
-- [ ] [Node 1](https://www.vulnhub.com/entry/node-1,252/)
-- [ ] [Troll 3](https://www.vulnhub.com/entry/tr0ll-3,340/)
-- [ ] [Readme 1](https://www.vulnhub.com/entry/readme-1,336/)
-- [ ] [OZ](https://www.vulnhub.com/entry/oz-1,317/)
-- [ ] [Metasploitable 3](https://github.com/rapid7/metasploitable3)
-- [ ] [Election 1](https://www.vulnhub.com/entry/election-1,503/)
+| Box Name                         | Official page | Writeup | Status               |
+| -------------------------------- | ------------- | ------- | -------------------- |
+| DC 9                             |               |         | :white_large_square: |
+| Digitalworld.local (Bravery)     |               |         | :white_large_square: |
+| Digitalworld.local (Development) |               |         | :white_large_square: |
+| Digitalworld.local (Mercy v2)    |               |         | :white_large_square: |
+| Digitalworld.local (JOY)         |               |         | :white_large_square: |
+| Prime 1                          |               |         | :white_large_square: |
+| Symfonos 1                       |               |         | :white_large_square: |
+| Symfonos 2                       |               |         | :white_large_square: |
+| Symfonos 3                       |               |         | :white_large_square: |
+| Symfonos 4                       |               |         | :white_large_square: |
+| Symfonos 5.2                     |               |         | :white_large_square: |
+| Misdirection 1                   |               |         | :white_large_square: |
+| Sar 1                            |               |         | :white_large_square: |
+| Djinn 1                          |               |         | :white_large_square: |
+| EVM 1                            |               |         | :white_large_square: |
+| DerpNStink 1                     |               |         | :white_large_square: |
+| RickdiculouslyEasy 1             |               |         | :white_large_square: |
+| Tommy Boy 1                      |               |         | :white_large_square: |
+| Breach 1                         |               |         | :white_large_square: |
+| Breach 2.1                       |               |         | :white_large_square: |
+| Breach 3.0.1                     |               |         | :white_large_square: |
+| NullByte                         |               |         | :white_large_square: |
+| Bob 1.0.1                        |               |         | :white_large_square: |
+| Toppo 1                          |               |         | :white_large_square: |
+| W34kn3ss 1                       |               |         | :white_large_square: |
+| GoldenEye 1                      |               |         | :white_large_square: |
+| Infosec Prep OSCP Box            |               |         | :white_large_square: |
+| LemonSqueezy                     |               |         | :white_large_square: |
+| Brainpan 1                       |               |         | :white_large_square: |
+| Pinkys Palace v1                 |               |         | :white_large_square: |
+| Lord of the root 1.0.1           |               |         | :white_large_square: |
+| Tiki-1                           |               |         | :white_large_square: |
+| Healthcare 1                     |               |         | :white_large_square: |
+| Photographer 1                   |               |         | :white_large_square: |
+| Glasglow 1.1                     |               |         | :white_large_square: |
+| DevGuru 1                        |               |         | :white_large_square: |
+| Alpha 1                          |               |         | :white_large_square: |
+| IMF                              |               |         | :white_large_square: |
+| Tommy Boy                        |               |         | :white_large_square: |
+| Billy Madison                    |               |         | :white_large_square: |
+| Tr0ll1                           |               |         | :white_large_square: |
+| Tr0ll2                           |               |         | :white_large_square: |
+| Wallaby's Nightmare              |               |         | :white_large_square: |
+| Moria                            |               |         | :white_large_square: |
+| BSides Vancouver 2018            |               |         | :white_large_square: |
+| DEFCON Toronto Galahad           |               |         | :white_large_square: |
+| Spydersec                        |               |         | :white_large_square: |
+| Pinkys Palace v3                 |               |         | :white_large_square: |
+| Pinkys Palace v4                 |               |         | :white_large_square: |
+| Vulnerable Docker 1              |               |         | :white_large_square: |
+| Node 1                           |               |         | :white_large_square: |
+| Troll 3                          |               |         | :white_large_square: |
+| Readme 1                         |               |         | :white_large_square: |
+| OZ                               |               |         | :white_large_square: |
+| Metasploitable 3                 |               |         | :white_large_square: |
+| Election 1                       |               |         | :white_large_square: |
 
 ### Topics
 
