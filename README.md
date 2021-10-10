@@ -71,8 +71,8 @@ Link to my HTB profile: [rbct](https://app.hackthebox.eu/profile/57923).
 | Grandpa          | [Link](https://app.hackthebox.eu/machines/Grandpa)       |                                                        | :white_large_square: |
 | Silo             | [Link](https://app.hackthebox.eu/machines/Silo)          |                                                        | :white_large_square: |
 | Bounty           | [Link](https://app.hackthebox.eu/machines/Bounty)        |                                                        | :white_large_square: |
-| Jerry            | [Link](https://app.hackthebox.eu/machines/Jerry)         | [Link](https://ctf.rbct.it/HTB/machines/jerry/)        | :white_large_square: |
-| Conceal          | [Link](https://app.hackthebox.eu/machines/Conceal)       |                                                        | :white_check_mark:   |
+| Jerry            | [Link](https://app.hackthebox.eu/machines/Jerry)         | [Link](https://ctf.rbct.it/HTB/machines/jerry/)        | :white_check_mark:   |
+| Conceal          | [Link](https://app.hackthebox.eu/machines/Conceal)       |                                                        | :white_large_square: |
 | Chatterbox       | [Link](https://app.hackthebox.eu/machines/Chatterbox)    |                                                        | :white_large_square: |
 | Forest           | [Link](https://app.hackthebox.eu/machines/Forest)        |                                                        | :white_check_mark:   |
 | BankRobber       | [Link](https://app.hackthebox.eu/machines/BankRobber)    |                                                        | :white_large_square: |
